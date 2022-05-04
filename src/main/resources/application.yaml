@@ -1,0 +1,6 @@
+web3:
+  url: "http://localhost:8545"
+  chainId: 1995
+  polling-attempts: 100
+  polling-interval: 100
+  privateKey: "5b9dfcd9ca31f538927b0dd60c2170a261d5a87c266a9a56e15ddc3ce499833b"
